@@ -1,0 +1,16 @@
+﻿Build started 12/12/2015 5:56:54 PM.
+     1>Project "c:\Users\Ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Simple_Spreadsheet\Simple_Spreadsheet.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cell.cpp main.cpp
+         main.cpp
+         cell.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Debug\Simple_Spreadsheet.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Debug\Simple_Spreadsheet.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Debug\Simple_Spreadsheet.lib" /MACHINE:X86 Debug\cell.obj
+         Debug\main.obj
+         Simple_Spreadsheet.vcxproj -> c:\users\ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Debug\Simple_Spreadsheet.exe
+     1>Done Building Project "c:\Users\Ankit\documents\visual studio 2013\Projects\Simple_Spreadsheet\Simple_Spreadsheet\Simple_Spreadsheet.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.37
